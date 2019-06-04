@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_NEUSCHWANSTEIN" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Neuschwanstein_32.dds"/>
+		<Row Name="ICON_ATLAS_NEUSCHWANSTEIN" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Neuschwanstein_38.dds"/>
+		<Row Name="ICON_ATLAS_NEUSCHWANSTEIN" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Neuschwanstein_50.dds"/>
+		<Row Name="ICON_ATLAS_NEUSCHWANSTEIN" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Neuschwanstein_64.dds"/>
+		<Row Name="ICON_ATLAS_NEUSCHWANSTEIN" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Neuschwanstein_128.dds"/>
+		<Row Name="ICON_ATLAS_NEUSCHWANSTEIN" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="Icon_Neuschwanstein_256.dds"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_BUILDING_NEUSCHWANSTEIN" Atlas="ICON_ATLAS_NEUSCHWANSTEIN" Index="0"/>
+	</IconDefinitions>
+</GameInfo>
