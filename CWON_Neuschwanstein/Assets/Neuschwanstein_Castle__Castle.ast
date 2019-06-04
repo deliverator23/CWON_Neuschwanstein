@@ -43,108 +43,60 @@
 								</Element>
 							</m_Values>
 						</m_Values>
-						<m_GroupName text="Neuschwanstien_Castle_DIFF"/>
+						<m_GroupName text="Neuschwanstien_Castle_DIFF.dds"/>
 						<m_MeshName text="castle"/>
 						<m_StateName text="Worked"/>
 					</Element>
 				</m_GroupStates>
 			</Element>
-			<Element>
-				<m_Name text="castle"/>
-				<m_GeoName text="neuschwanstein_castle__castle"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstien_Castle_DIFF"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="Neuschwanstien_Castle_DIFF"/>
-						<m_MeshName text="castle"/>
-						<m_StateName text="Unworked"/>
-					</Element>
+            <Element>
+                <m_Name text="Neuschwanstein_Castle_HB"/>
+                <m_GeoName text="neuschwanstein_castle__Neuschwanstein_Castle_HB"/>
+                <m_GroupStates>
+                <Element>
+                    <m_Values>
+                        <m_Values>
+                            <Element class="AssetObjects:ObjectValue">
+                                <m_ObjectName text="Neuschwanstein_Castle_HB_DIFF"/>
+                                <m_eObjectType>MATERIAL</m_eObjectType>
+                                <m_ParamName text="Material"/>
+                            </Element>
+                            <Element class="AssetObjects..BoolValue">
+                                <m_bValue>true</m_bValue>
+                                <m_ParamName text="Visible"/>
+                            </Element>
+                        </m_Values>
+                    </m_Values>
+                    <m_GroupName text="Neuschwanstein_Castle_HB_DIFF.dds"/>
+                    <m_MeshName text="Neuschwanstein_Castle_HB"/>
+                    <m_StateName text="Unworked"/>
+                </Element>
 				</m_GroupStates>
 			</Element>
-			<Element>
-				<m_Name text="castle"/>
-				<m_GeoName text="neuschwanstein_castle__castle"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstien_Castle_DIFF"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="Neuschwanstien_Castle_DIFF"/>
-						<m_MeshName text="castle"/>
-						<m_StateName text="Pillaged"/>
-					</Element>
-				</m_GroupStates>
-			</Element>
-			<Element>
-				<m_Name text="castle"/>
-				<m_GeoName text="neuschwanstein_castle__castle"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstien_Castle_DIFF"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="Neuschwanstien_Castle_DIFF"/>
-						<m_MeshName text="castle"/>
-						<m_StateName text="Unbuilt"/>
-					</Element>
-				</m_GroupStates>
-			</Element>
-			<Element>
-				<m_Name text="castle"/>
-				<m_GeoName text="neuschwanstein_castle__castle"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstien_Castle_DIFF"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="Neuschwanstien_Castle_DIFF"/>
-						<m_MeshName text="castle"/>
-						<m_StateName text="Construction"/>
-					</Element>
-				</m_GroupStates>
-			</Element>
+            <Element>
+                <m_Name text="Neuschwanstein_Castle_HB"/>
+                <m_GeoName text="neuschwanstein_castle__Neuschwanstein_Castle_HB"/>
+                <m_GroupStates>
+                    <Element>
+                        <m_Values>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Neuschwanstein_Castle_HB_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                                <Element class="AssetObjects..BoolValue">
+                                    <m_bValue>true</m_bValue>
+                                    <m_ParamName text="Visible"/>
+                                </Element>
+                            </m_Values>
+                        </m_Values>
+                        <m_GroupName text="Neuschwanstein_Castle_HB_DIFF.dds"/>
+                        <m_MeshName text="Neuschwanstein_Castle_HB"/>
+                        <m_StateName text="Pillaged"/>
+                    </Element>
+                </m_GroupStates>
+            </Element>
 		</m_ModelInstances>
 	</m_GeometrySet>
 	<m_CookParams>

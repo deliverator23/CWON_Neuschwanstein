@@ -18,7 +18,7 @@
 					</Element>
 					<Element>
 						<m_SlotName text="REVEAL_A"/>
-						<m_AnimationName text="WON_Itsukushima_Movie"/>
+						<m_AnimationName text="WON_Hagia_Sophia_Movie"/>
 					</Element>
 				</m_Bindings>
 			</m_animationBindings>
@@ -35,7 +35,7 @@
 					<Element>
 						<m_Name text="REVEAL_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="WON_Itsukushima_Movie"/>
+						<m_AnimationName text="WON_Hagia_Sophia_Movie"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 						</m_Triggers>
@@ -84,8 +84,8 @@
 							<z>0.000000</z>
 						</m_orientation>
 						<m_Name text="Castle"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>3.5</m_scale>
 					</Element>
 					<Element>
@@ -120,8 +120,8 @@
 							<z>1.505067</z>
 						</m_orientation>
 						<m_Name text="Foliage001"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.954347</m_scale>
 					</Element>
 					<Element>
@@ -156,8 +156,8 @@
 							<z>1.176179</z>
 						</m_orientation>
 						<m_Name text="Foliage002"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.926009</m_scale>
 					</Element>
 					<Element>
@@ -192,8 +192,8 @@
 							<z>1.448357</z>
 						</m_orientation>
 						<m_Name text="Foliage003"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.085768</m_scale>
 					</Element>
 					<Element>
@@ -228,8 +228,8 @@
 							<z>2.449509</z>
 						</m_orientation>
 						<m_Name text="Foliage004"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.014466</m_scale>
 					</Element>
 					<Element>
@@ -264,8 +264,8 @@
 							<z>2.318968</z>
 						</m_orientation>
 						<m_Name text="Foliage005"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.917959</m_scale>
 					</Element>
 					<Element>
@@ -300,8 +300,8 @@
 							<z>1.822489</z>
 						</m_orientation>
 						<m_Name text="Foliage006"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.917240</m_scale>
 					</Element>
 					<Element>
@@ -336,8 +336,8 @@
 							<z>0.337315</z>
 						</m_orientation>
 						<m_Name text="Foliage007"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.990936</m_scale>
 					</Element>
 					<Element>
@@ -372,8 +372,8 @@
 							<z>2.241742</z>
 						</m_orientation>
 						<m_Name text="Foliage008"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.028011</m_scale>
 					</Element>
 					<Element>
@@ -408,8 +408,8 @@
 							<z>1.815567</z>
 						</m_orientation>
 						<m_Name text="Foliage009"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.911878</m_scale>
 					</Element>
 					<Element>
@@ -444,8 +444,8 @@
 							<z>1.379335</z>
 						</m_orientation>
 						<m_Name text="Foliage010"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.045075</m_scale>
 					</Element>
 					<Element>
@@ -480,8 +480,8 @@
 							<z>2.508848</z>
 						</m_orientation>
 						<m_Name text="Foliage011"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.958181</m_scale>
 					</Element>
 					<Element>
@@ -516,8 +516,8 @@
 							<z>0.447777</z>
 						</m_orientation>
 						<m_Name text="Foliage012"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.922987</m_scale>
 					</Element>
 					<Element>
@@ -552,8 +552,8 @@
 							<z>2.896789</z>
 						</m_orientation>
 						<m_Name text="Foliage013"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.928651</m_scale>
 					</Element>
 					<Element>
@@ -588,8 +588,8 @@
 							<z>1.770406</z>
 						</m_orientation>
 						<m_Name text="Foliage014"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.972590</m_scale>
 					</Element>
 					<Element>
@@ -624,8 +624,8 @@
 							<z>2.046551</z>
 						</m_orientation>
 						<m_Name text="Foliage015"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.033846</m_scale>
 					</Element>
 					<Element>
@@ -660,8 +660,8 @@
 							<z>0.264678</z>
 						</m_orientation>
 						<m_Name text="Foliage016"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.010238</m_scale>
 					</Element>
 					<Element>
@@ -696,8 +696,8 @@
 							<z>1.069287</z>
 						</m_orientation>
 						<m_Name text="Foliage017"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.034846</m_scale>
 					</Element>
 					<Element>
@@ -732,8 +732,8 @@
 							<z>0.391009</z>
 						</m_orientation>
 						<m_Name text="Foliage018"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.938761</m_scale>
 					</Element>
 					<Element>
@@ -768,8 +768,8 @@
 							<z>0.429682</z>
 						</m_orientation>
 						<m_Name text="Foliage019"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.937231</m_scale>
 					</Element>
 					<Element>
@@ -804,8 +804,8 @@
 							<z>1.247760</z>
 						</m_orientation>
 						<m_Name text="Foliage020"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.940895</m_scale>
 					</Element>
 					<Element>
@@ -840,8 +840,8 @@
 							<z>2.614883</z>
 						</m_orientation>
 						<m_Name text="Foliage021"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.965841</m_scale>
 					</Element>
 					<Element>
@@ -876,8 +876,8 @@
 							<z>1.954335</z>
 						</m_orientation>
 						<m_Name text="Foliage022"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.084087</m_scale>
 					</Element>
 					<Element>
@@ -912,8 +912,8 @@
 							<z>0.885965</z>
 						</m_orientation>
 						<m_Name text="Foliage023"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.044453</m_scale>
 					</Element>
 					<Element>
@@ -948,8 +948,8 @@
 							<z>0.981950</z>
 						</m_orientation>
 						<m_Name text="Foliage024"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.065405</m_scale>
 					</Element>
 					<Element>
@@ -984,8 +984,8 @@
 							<z>1.983534</z>
 						</m_orientation>
 						<m_Name text="Foliage025"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.975593</m_scale>
 					</Element>
 					<Element>
@@ -1020,8 +1020,8 @@
 							<z>1.435595</z>
 						</m_orientation>
 						<m_Name text="Foliage026"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.011628</m_scale>
 					</Element>
 					<Element>
@@ -1056,8 +1056,8 @@
 							<z>1.904147</z>
 						</m_orientation>
 						<m_Name text="Foliage027"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.087069</m_scale>
 					</Element>
 					<Element>
@@ -1092,8 +1092,8 @@
 							<z>0.883585</z>
 						</m_orientation>
 						<m_Name text="Foliage028"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.939824</m_scale>
 					</Element>
 					<Element>
@@ -1128,8 +1128,8 @@
 							<z>3.013973</z>
 						</m_orientation>
 						<m_Name text="Foliage029"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.002268</m_scale>
 					</Element>
 					<Element>
@@ -1164,8 +1164,8 @@
 							<z>0.901958</z>
 						</m_orientation>
 						<m_Name text="Foliage030"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.997497</m_scale>
 					</Element>
 					<Element>
@@ -1200,8 +1200,8 @@
 							<z>0.859272</z>
 						</m_orientation>
 						<m_Name text="Foliage031"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.055610</m_scale>
 					</Element>
 					<Element>
@@ -1236,8 +1236,8 @@
 							<z>2.011339</z>
 						</m_orientation>
 						<m_Name text="Foliage032"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.978034</m_scale>
 					</Element>
 					<Element>
@@ -1272,8 +1272,8 @@
 							<z>2.124307</z>
 						</m_orientation>
 						<m_Name text="Foliage033"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.092627</m_scale>
 					</Element>
 					<Element>
@@ -1308,8 +1308,8 @@
 							<z>1.582999</z>
 						</m_orientation>
 						<m_Name text="Foliage034"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.974522</m_scale>
 					</Element>
 					<Element>
@@ -1344,8 +1344,8 @@
 							<z>1.751122</z>
 						</m_orientation>
 						<m_Name text="Foliage035"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.076274</m_scale>
 					</Element>
 					<Element>
@@ -1380,8 +1380,8 @@
 							<z>0.995784</z>
 						</m_orientation>
 						<m_Name text="Foliage036"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.900375</m_scale>
 					</Element>
 					<Element>
@@ -1416,8 +1416,8 @@
 							<z>1.160597</z>
 						</m_orientation>
 						<m_Name text="Foliage037"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.959159</m_scale>
 					</Element>
 					<Element>
@@ -1452,8 +1452,8 @@
 							<z>2.168326</z>
 						</m_orientation>
 						<m_Name text="Foliage038"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.031660</m_scale>
 					</Element>
 					<Element>
@@ -1488,8 +1488,8 @@
 							<z>0.177899</z>
 						</m_orientation>
 						<m_Name text="Foliage039"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.053189</m_scale>
 					</Element>
 					<Element>
@@ -1524,8 +1524,8 @@
 							<z>0.453519</z>
 						</m_orientation>
 						<m_Name text="Foliage040"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.043306</m_scale>
 					</Element>
 					<Element>
@@ -1560,8 +1560,8 @@
 							<z>2.883960</z>
 						</m_orientation>
 						<m_Name text="Foliage041"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.003400</m_scale>
 					</Element>
 					<Element>
@@ -1596,8 +1596,8 @@
 							<z>2.013772</z>
 						</m_orientation>
 						<m_Name text="Foliage042"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.018144</m_scale>
 					</Element>
 					<Element>
@@ -1632,8 +1632,8 @@
 							<z>0.041499</z>
 						</m_orientation>
 						<m_Name text="Foliage043"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.073184</m_scale>
 					</Element>
 					<Element>
@@ -1668,8 +1668,8 @@
 							<z>0.789121</z>
 						</m_orientation>
 						<m_Name text="Foliage044"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.034716</m_scale>
 					</Element>
 					<Element>
@@ -1704,8 +1704,8 @@
 							<z>2.447645</z>
 						</m_orientation>
 						<m_Name text="Foliage045"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.990866</m_scale>
 					</Element>
 					<Element>
@@ -1740,8 +1740,8 @@
 							<z>2.289104</z>
 						</m_orientation>
 						<m_Name text="Foliage046"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.995730</m_scale>
 					</Element>
 					<Element>
@@ -1776,8 +1776,8 @@
 							<z>2.344924</z>
 						</m_orientation>
 						<m_Name text="Foliage047"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.036451</m_scale>
 					</Element>
 					<Element>
@@ -1812,8 +1812,8 @@
 							<z>1.460660</z>
 						</m_orientation>
 						<m_Name text="Foliage048"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.929124</m_scale>
 					</Element>
 					<Element>
@@ -1848,8 +1848,8 @@
 							<z>0.468874</z>
 						</m_orientation>
 						<m_Name text="Foliage049"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.947180</m_scale>
 					</Element>
 					<Element>
@@ -1884,8 +1884,8 @@
 							<z>2.463509</z>
 						</m_orientation>
 						<m_Name text="Foliage050"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.915506</m_scale>
 					</Element>
 					
@@ -1921,8 +1921,8 @@
 							<z>2.851506</z>
 						</m_orientation>
 						<m_Name text="Foliage052"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.913007</m_scale>
 					</Element>
 					<Element>
@@ -1957,8 +1957,8 @@
 							<z>3.139355</z>
 						</m_orientation>
 						<m_Name text="Foliage053"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.948926</m_scale>
 					</Element>
 					<Element>
@@ -1993,8 +1993,8 @@
 							<z>0.641177</z>
 						</m_orientation>
 						<m_Name text="Foliage054"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.917167</m_scale>
 					</Element>
 					<Element>
@@ -2029,8 +2029,8 @@
 							<z>0.348545</z>
 						</m_orientation>
 						<m_Name text="Foliage055"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.941240</m_scale>
 					</Element>
 					<Element>
@@ -2065,8 +2065,8 @@
 							<z>1.497934</z>
 						</m_orientation>
 						<m_Name text="Foliage056"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.957233</m_scale>
 					</Element>
 					<Element>
@@ -2101,8 +2101,8 @@
 							<z>2.115239</z>
 						</m_orientation>
 						<m_Name text="Foliage057"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.045281</m_scale>
 					</Element>
 					<Element>
@@ -2137,8 +2137,8 @@
 							<z>1.243347</z>
 						</m_orientation>
 						<m_Name text="Foliage058"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.994919</m_scale>
 					</Element>
 					<Element>
@@ -2173,8 +2173,8 @@
 							<z>0.123417</z>
 						</m_orientation>
 						<m_Name text="Foliage059"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.957565</m_scale>
 					</Element>
 					<Element>
@@ -2209,8 +2209,8 @@
 							<z>2.416506</z>
 						</m_orientation>
 						<m_Name text="Foliage060"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.059693</m_scale>
 					</Element>
 					<Element>
@@ -2245,8 +2245,8 @@
 							<z>2.474282</z>
 						</m_orientation>
 						<m_Name text="Foliage061"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.047227</m_scale>
 					</Element>
 					<Element>
@@ -2281,8 +2281,8 @@
 							<z>0.926809</z>
 						</m_orientation>
 						<m_Name text="Foliage062"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.933979</m_scale>
 					</Element>
 					<Element>
@@ -2317,8 +2317,8 @@
 							<z>2.895154</z>
 						</m_orientation>
 						<m_Name text="Foliage063"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.064904</m_scale>
 					</Element>
 					<Element>
@@ -2353,8 +2353,8 @@
 							<z>0.838950</z>
 						</m_orientation>
 						<m_Name text="Foliage064"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.090919</m_scale>
 					</Element>
 					<Element>
@@ -2389,8 +2389,8 @@
 							<z>0.550261</z>
 						</m_orientation>
 						<m_Name text="Foliage065"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.032003</m_scale>
 					</Element>
 					<Element>
@@ -2425,8 +2425,8 @@
 							<z>0.817987</z>
 						</m_orientation>
 						<m_Name text="Foliage066"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.042337</m_scale>
 					</Element>
 					<Element>
@@ -2461,8 +2461,8 @@
 							<z>2.747283</z>
 						</m_orientation>
 						<m_Name text="Foliage067"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.926545</m_scale>
 					</Element>
 					<Element>
@@ -2497,8 +2497,8 @@
 							<z>0.210564</z>
 						</m_orientation>
 						<m_Name text="Foliage068"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.917346</m_scale>
 					</Element>
 					<Element>
@@ -2533,8 +2533,8 @@
 							<z>2.862639</z>
 						</m_orientation>
 						<m_Name text="Foliage069"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.008436</m_scale>
 					</Element>
 					<Element>
@@ -2569,8 +2569,8 @@
 							<z>2.421976</z>
 						</m_orientation>
 						<m_Name text="Foliage070"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.963685</m_scale>
 					</Element>
 					<Element>
@@ -2605,8 +2605,8 @@
 							<z>0.502222</z>
 						</m_orientation>
 						<m_Name text="Foliage071"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.986159</m_scale>
 					</Element>
 					<Element>
@@ -2641,8 +2641,8 @@
 							<z>0.706979</z>
 						</m_orientation>
 						<m_Name text="Foliage072"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.971292</m_scale>
 					</Element>
 					<Element>
@@ -2677,8 +2677,8 @@
 							<z>1.535939</z>
 						</m_orientation>
 						<m_Name text="Foliage073"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.901956</m_scale>
 					</Element>
 					<Element>
@@ -2713,8 +2713,8 @@
 							<z>1.265209</z>
 						</m_orientation>
 						<m_Name text="Foliage074"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.066113</m_scale>
 					</Element>
 					<Element>
@@ -2749,8 +2749,8 @@
 							<z>0.281722</z>
 						</m_orientation>
 						<m_Name text="Foliage075"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.047175</m_scale>
 					</Element>
 					<Element>
@@ -2785,8 +2785,8 @@
 							<z>1.528496</z>
 						</m_orientation>
 						<m_Name text="Foliage076"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.919716</m_scale>
 					</Element>
 					<Element>
@@ -2821,8 +2821,8 @@
 							<z>0.805768</z>
 						</m_orientation>
 						<m_Name text="Foliage077"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.980670</m_scale>
 					</Element>
 					<Element>
@@ -2857,8 +2857,8 @@
 							<z>0.772620</z>
 						</m_orientation>
 						<m_Name text="Foliage078"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.027009</m_scale>
 					</Element>
 					<Element>
@@ -2893,8 +2893,8 @@
 							<z>2.373381</z>
 						</m_orientation>
 						<m_Name text="Foliage079"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.025616</m_scale>
 					</Element>
 					<Element>
@@ -2929,8 +2929,8 @@
 							<z>2.782295</z>
 						</m_orientation>
 						<m_Name text="Foliage080"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.053414</m_scale>
 					</Element>
 					<Element>
@@ -2965,8 +2965,8 @@
 							<z>0.021375</z>
 						</m_orientation>
 						<m_Name text="Foliage081"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.014939</m_scale>
 					</Element>
 					<Element>
@@ -3001,8 +3001,8 @@
 							<z>2.389018</z>
 						</m_orientation>
 						<m_Name text="Foliage082"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.962777</m_scale>
 					</Element>
 					<Element>
@@ -3037,8 +3037,8 @@
 							<z>2.343374</z>
 						</m_orientation>
 						<m_Name text="Foliage083"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.012720</m_scale>
 					</Element>
 					<Element>
@@ -3073,8 +3073,8 @@
 							<z>0.234148</z>
 						</m_orientation>
 						<m_Name text="Foliage084"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.085090</m_scale>
 					</Element>
 					<Element>
@@ -3109,8 +3109,8 @@
 							<z>2.507716</z>
 						</m_orientation>
 						<m_Name text="Foliage085"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.957233</m_scale>
 					</Element>
 					<Element>
@@ -3145,8 +3145,8 @@
 							<z>0.105182</z>
 						</m_orientation>
 						<m_Name text="Foliage086"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.915102</m_scale>
 					</Element>
 					<Element>
@@ -3181,8 +3181,8 @@
 							<z>1.932996</z>
 						</m_orientation>
 						<m_Name text="Foliage087"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.020834</m_scale>
 					</Element>
 					<Element>
@@ -3217,8 +3217,8 @@
 							<z>1.918825</z>
 						</m_orientation>
 						<m_Name text="Foliage088"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.954823</m_scale>
 					</Element>
 					<Element>
@@ -3253,8 +3253,8 @@
 							<z>1.225920</z>
 						</m_orientation>
 						<m_Name text="Foliage089"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.920973</m_scale>
 					</Element>
 					<Element>
@@ -3289,8 +3289,8 @@
 							<z>2.984391</z>
 						</m_orientation>
 						<m_Name text="Foliage090"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.973032</m_scale>
 					</Element>
 					<Element>
@@ -3325,8 +3325,8 @@
 							<z>3.082275</z>
 						</m_orientation>
 						<m_Name text="Foliage091"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.991109</m_scale>
 					</Element>
 					<Element>
@@ -3361,8 +3361,8 @@
 							<z>2.552662</z>
 						</m_orientation>
 						<m_Name text="Foliage092"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.063269</m_scale>
 					</Element>
 					<Element>
@@ -3397,8 +3397,8 @@
 							<z>1.823183</z>
 						</m_orientation>
 						<m_Name text="Foliage093"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.961095</m_scale>
 					</Element>
 					<Element>
@@ -3433,8 +3433,8 @@
 							<z>1.703012</z>
 						</m_orientation>
 						<m_Name text="Foliage094"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.959754</m_scale>
 					</Element>
 					<Element>
@@ -3469,8 +3469,8 @@
 							<z>1.937583</z>
 						</m_orientation>
 						<m_Name text="Foliage095"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.976212</m_scale>
 					</Element>
 					<Element>
@@ -3505,8 +3505,8 @@
 							<z>0.702493</z>
 						</m_orientation>
 						<m_Name text="Foliage096"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.966392</m_scale>
 					</Element>
 					<Element>
@@ -3541,8 +3541,8 @@
 							<z>2.206905</z>
 						</m_orientation>
 						<m_Name text="Foliage097"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.945660</m_scale>
 					</Element>
 					<Element>
@@ -3577,8 +3577,8 @@
 							<z>2.257783</z>
 						</m_orientation>
 						<m_Name text="Foliage098"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.901954</m_scale>
 					</Element>
 					<Element>
@@ -3613,8 +3613,8 @@
 							<z>2.544080</z>
 						</m_orientation>
 						<m_Name text="Foliage099"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.062634</m_scale>
 					</Element>
 					<Element>
@@ -3649,8 +3649,8 @@
 							<z>2.744296</z>
 						</m_orientation>
 						<m_Name text="Foliage100"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.948320</m_scale>
 					</Element>
 					<Element>
@@ -3685,8 +3685,8 @@
 							<z>0.488019</z>
 						</m_orientation>
 						<m_Name text="Foliage101"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.087760</m_scale>
 					</Element>
 					<Element>
@@ -3721,8 +3721,8 @@
 							<z>0.802697</z>
 						</m_orientation>
 						<m_Name text="Foliage102"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.998711</m_scale>
 					</Element>
 					<Element>
@@ -3757,8 +3757,8 @@
 							<z>2.851506</z>
 						</m_orientation>
 						<m_Name text="Foliage103"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.015274</m_scale>
 					</Element>
 					<Element>
@@ -3793,8 +3793,8 @@
 							<z>0.055240</z>
 						</m_orientation>
 						<m_Name text="Foliage104"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.051934</m_scale>
 					</Element>
 					<Element>
@@ -3829,8 +3829,8 @@
 							<z>2.356941</z>
 						</m_orientation>
 						<m_Name text="Foliage105"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.090580</m_scale>
 					</Element>
 					<Element>
@@ -3865,8 +3865,8 @@
 							<z>1.258900</z>
 						</m_orientation>
 						<m_Name text="Foliage106"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.939985</m_scale>
 					</Element>
 					<Element>
@@ -3901,8 +3901,8 @@
 							<z>1.363164</z>
 						</m_orientation>
 						<m_Name text="Foliage107"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.083561</m_scale>
 					</Element>
 					<Element>
@@ -3937,8 +3937,8 @@
 							<z>0.301105</z>
 						</m_orientation>
 						<m_Name text="Foliage108"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.993386</m_scale>
 					</Element>
 					<Element>
@@ -3973,8 +3973,8 @@
 							<z>2.608807</z>
 						</m_orientation>
 						<m_Name text="Foliage109"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.007412</m_scale>
 					</Element>
 					<Element>
@@ -4009,8 +4009,8 @@
 							<z>0.140578</z>
 						</m_orientation>
 						<m_Name text="Foliage110"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.984485</m_scale>
 					</Element>
 					<Element>
@@ -4045,8 +4045,8 @@
 							<z>1.567944</z>
 						</m_orientation>
 						<m_Name text="Foliage111"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.945426</m_scale>
 					</Element>
 					<Element>
@@ -4081,8 +4081,8 @@
 							<z>0.123895</z>
 						</m_orientation>
 						<m_Name text="Foliage112"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.018011</m_scale>
 					</Element>
 					<Element>
@@ -4117,8 +4117,8 @@
 							<z>0.572854</z>
 						</m_orientation>
 						<m_Name text="Foliage113"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.094300</m_scale>
 					</Element>
 					<Element>
@@ -4153,8 +4153,8 @@
 							<z>2.150261</z>
 						</m_orientation>
 						<m_Name text="Foliage114"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.004592</m_scale>
 					</Element>
 					<Element>
@@ -4189,8 +4189,8 @@
 							<z>2.838105</z>
 						</m_orientation>
 						<m_Name text="Foliage115"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.933487</m_scale>
 					</Element>
 					<Element>
@@ -4225,8 +4225,8 @@
 							<z>0.411896</z>
 						</m_orientation>
 						<m_Name text="Foliage116"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.913430</m_scale>
 					</Element>
 					<Element>
@@ -4261,8 +4261,8 @@
 							<z>2.468045</z>
 						</m_orientation>
 						<m_Name text="Foliage117"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.088101</m_scale>
 					</Element>
 					<Element>
@@ -4297,8 +4297,8 @@
 							<z>2.413550</z>
 						</m_orientation>
 						<m_Name text="Foliage118"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.026909</m_scale>
 					</Element>
 					<Element>
@@ -4333,8 +4333,8 @@
 							<z>1.794781</z>
 						</m_orientation>
 						<m_Name text="Foliage119"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.084961</m_scale>
 					</Element>
 					<Element>
@@ -4369,8 +4369,8 @@
 							<z>0.463482</z>
 						</m_orientation>
 						<m_Name text="Foliage120"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.009940</m_scale>
 					</Element>
 					<Element>
@@ -4405,8 +4405,8 @@
 							<z>2.079635</z>
 						</m_orientation>
 						<m_Name text="Foliage121"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.084881</m_scale>
 					</Element>
 					<Element>
@@ -4441,8 +4441,8 @@
 							<z>1.881864</z>
 						</m_orientation>
 						<m_Name text="Foliage122"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.081867</m_scale>
 					</Element>
 					<Element>
@@ -4477,8 +4477,8 @@
 							<z>0.131443</z>
 						</m_orientation>
 						<m_Name text="Foliage123"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.902659</m_scale>
 					</Element>
 					<Element>
@@ -4513,8 +4513,8 @@
 							<z>2.788383</z>
 						</m_orientation>
 						<m_Name text="Foliage124"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.918069</m_scale>
 					</Element>
 					<Element>
@@ -4549,8 +4549,8 @@
 							<z>0.368968</z>
 						</m_orientation>
 						<m_Name text="Foliage125"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.945505</m_scale>
 					</Element>
 					<Element>
@@ -4585,8 +4585,8 @@
 							<z>1.436417</z>
 						</m_orientation>
 						<m_Name text="Foliage126"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.965983</m_scale>
 					</Element>
 					<Element>
@@ -4621,8 +4621,8 @@
 							<z>1.605006</z>
 						</m_orientation>
 						<m_Name text="Foliage127"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.997454</m_scale>
 					</Element>
 					<Element>
@@ -4657,8 +4657,8 @@
 							<z>2.215027</z>
 						</m_orientation>
 						<m_Name text="Foliage128"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.066707</m_scale>
 					</Element>
 					<Element>
@@ -4693,8 +4693,8 @@
 							<z>1.106564</z>
 						</m_orientation>
 						<m_Name text="Foliage129"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.028565</m_scale>
 					</Element>
 					<Element>
@@ -4729,8 +4729,8 @@
 							<z>1.258644</z>
 						</m_orientation>
 						<m_Name text="Foliage130"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.024493</m_scale>
 					</Element>
 					<Element>
@@ -4765,8 +4765,8 @@
 							<z>1.133210</z>
 						</m_orientation>
 						<m_Name text="Foliage131"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.090916</m_scale>
 					</Element>
 					<Element>
@@ -4801,8 +4801,8 @@
 							<z>2.080369</z>
 						</m_orientation>
 						<m_Name text="Foliage132"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.033561</m_scale>
 					</Element>
 					<Element>
@@ -4837,8 +4837,8 @@
 							<z>2.010300</z>
 						</m_orientation>
 						<m_Name text="Foliage133"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.030777</m_scale>
 					</Element>
 					<Element>
@@ -4873,8 +4873,8 @@
 							<z>2.289051</z>
 						</m_orientation>
 						<m_Name text="Foliage134"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.041510</m_scale>
 					</Element>
 					<Element>
@@ -4909,8 +4909,8 @@
 							<z>2.095247</z>
 						</m_orientation>
 						<m_Name text="Foliage135"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.984110</m_scale>
 					</Element>
 					<Element>
@@ -4945,8 +4945,8 @@
 							<z>2.929551</z>
 						</m_orientation>
 						<m_Name text="Foliage136"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.064567</m_scale>
 					</Element>
 					<Element>
@@ -4981,8 +4981,8 @@
 							<z>0.128318</z>
 						</m_orientation>
 						<m_Name text="Foliage137"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.081780</m_scale>
 					</Element>
 					<Element>
@@ -5017,8 +5017,8 @@
 							<z>0.831557</z>
 						</m_orientation>
 						<m_Name text="Foliage138"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.015309</m_scale>
 					</Element>
 					<Element>
@@ -5053,8 +5053,8 @@
 							<z>1.316101</z>
 						</m_orientation>
 						<m_Name text="Foliage139"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.033233</m_scale>
 					</Element>
 					<Element>
@@ -5089,8 +5089,8 @@
 							<z>1.188064</z>
 						</m_orientation>
 						<m_Name text="Foliage140"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.924821</m_scale>
 					</Element>
 				
@@ -5126,8 +5126,8 @@
 							<z>0.008500</z>
 						</m_orientation>
 						<m_Name text="Foliage142"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.041930</m_scale>
 					</Element>
 					<Element>
@@ -5162,8 +5162,8 @@
 							<z>1.035571</z>
 						</m_orientation>
 						<m_Name text="Foliage143"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.929980</m_scale>
 					</Element>
 					<Element>
@@ -5198,8 +5198,8 @@
 							<z>0.198761</z>
 						</m_orientation>
 						<m_Name text="Foliage144"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.013625</m_scale>
 					</Element>
 					<Element>
@@ -5234,8 +5234,8 @@
 							<z>0.128923</z>
 						</m_orientation>
 						<m_Name text="Foliage145"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.082087</m_scale>
 					</Element>
 					<Element>
@@ -5270,8 +5270,8 @@
 							<z>0.909319</z>
 						</m_orientation>
 						<m_Name text="Foliage146"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.927155</m_scale>
 					</Element>
 					<Element>
@@ -5306,8 +5306,8 @@
 							<z>1.791091</z>
 						</m_orientation>
 						<m_Name text="Foliage147"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.968826</m_scale>
 					</Element>
 					<Element>
@@ -5342,8 +5342,8 @@
 							<z>2.996560</z>
 						</m_orientation>
 						<m_Name text="Foliage148"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.072741</m_scale>
 					</Element>
 					<Element>
@@ -5378,8 +5378,8 @@
 							<z>1.644696</z>
 						</m_orientation>
 						<m_Name text="Foliage149"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.088539</m_scale>
 					</Element>
 					<Element>
@@ -5414,8 +5414,8 @@
 							<z>0.397651</z>
 						</m_orientation>
 						<m_Name text="Foliage150"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.006226</m_scale>
 					</Element>
 					<Element>
@@ -5450,8 +5450,8 @@
 							<z>2.295371</z>
 						</m_orientation>
 						<m_Name text="Foliage151"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.948343</m_scale>
 					</Element>
 					<Element>
@@ -5486,8 +5486,8 @@
 							<z>0.468462</z>
 						</m_orientation>
 						<m_Name text="Foliage152"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.059036</m_scale>
 					</Element>
 					<Element>
@@ -5522,8 +5522,8 @@
 							<z>0.452364</z>
 						</m_orientation>
 						<m_Name text="Foliage153"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.990246</m_scale>
 					</Element>
 					<Element>
@@ -5558,8 +5558,8 @@
 							<z>0.456521</z>
 						</m_orientation>
 						<m_Name text="Foliage154"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.000105</m_scale>
 					</Element>
 					<Element>
@@ -5594,8 +5594,8 @@
 							<z>0.016580</z>
 						</m_orientation>
 						<m_Name text="Foliage155"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.948928</m_scale>
 					</Element>
 					<Element>
@@ -5630,8 +5630,8 @@
 							<z>1.973323</z>
 						</m_orientation>
 						<m_Name text="Foliage156"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.030042</m_scale>
 					</Element>
 					<Element>
@@ -5666,8 +5666,8 @@
 							<z>3.115746</z>
 						</m_orientation>
 						<m_Name text="Foliage157"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.024032</m_scale>
 					</Element>
 					<Element>
@@ -5702,8 +5702,8 @@
 							<z>0.674541</z>
 						</m_orientation>
 						<m_Name text="Foliage158"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.951959</m_scale>
 					</Element>
 					<Element>
@@ -5738,8 +5738,8 @@
 							<z>0.488074</z>
 						</m_orientation>
 						<m_Name text="Foliage159"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.081360</m_scale>
 					</Element>
 					<Element>
@@ -5774,8 +5774,8 @@
 							<z>1.471821</z>
 						</m_orientation>
 						<m_Name text="Foliage160"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.063167</m_scale>
 					</Element>
 					<Element>
@@ -5810,8 +5810,8 @@
 							<z>1.232965</z>
 						</m_orientation>
 						<m_Name text="Foliage161"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.964322</m_scale>
 					</Element>
 					<Element>
@@ -5846,8 +5846,8 @@
 							<z>2.083961</z>
 						</m_orientation>
 						<m_Name text="Foliage162"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.953152</m_scale>
 					</Element>
 					<Element>
@@ -5882,8 +5882,8 @@
 							<z>2.208173</z>
 						</m_orientation>
 						<m_Name text="Foliage163"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.963151</m_scale>
 					</Element>
 					<Element>
@@ -5918,8 +5918,8 @@
 							<z>1.595792</z>
 						</m_orientation>
 						<m_Name text="Foliage164"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.033395</m_scale>
 					</Element>
 					<Element>
@@ -5954,8 +5954,8 @@
 							<z>2.856559</z>
 						</m_orientation>
 						<m_Name text="Foliage165"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.093527</m_scale>
 					</Element>
 					<Element>
@@ -5990,8 +5990,8 @@
 							<z>2.482783</z>
 						</m_orientation>
 						<m_Name text="Foliage166"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.057195</m_scale>
 					</Element>
 					<Element>
@@ -6026,8 +6026,8 @@
 							<z>3.055373</z>
 						</m_orientation>
 						<m_Name text="Foliage167"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.955386</m_scale>
 					</Element>
 					<Element>
@@ -6062,8 +6062,8 @@
 							<z>3.060814</z>
 						</m_orientation>
 						<m_Name text="Foliage168"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.971756</m_scale>
 					</Element>
 					<Element>
@@ -6098,8 +6098,8 @@
 							<z>0.017610</z>
 						</m_orientation>
 						<m_Name text="Foliage169"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.997136</m_scale>
 					</Element>
 					<Element>
@@ -6134,8 +6134,8 @@
 							<z>1.033272</z>
 						</m_orientation>
 						<m_Name text="Foliage170"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.092461</m_scale>
 					</Element>
 					<Element>
@@ -6170,8 +6170,8 @@
 							<z>0.225446</z>
 						</m_orientation>
 						<m_Name text="Foliage171"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.977222</m_scale>
 					</Element>
 					<Element>
@@ -6206,8 +6206,8 @@
 							<z>2.753448</z>
 						</m_orientation>
 						<m_Name text="Foliage172"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.927841</m_scale>
 					</Element>
 					<Element>
@@ -6242,8 +6242,8 @@
 							<z>1.777717</z>
 						</m_orientation>
 						<m_Name text="Foliage173"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.927268</m_scale>
 					</Element>
 					
@@ -6279,8 +6279,8 @@
 							<z>3.036890</z>
 						</m_orientation>
 						<m_Name text="Foliage175"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.911512</m_scale>
 					</Element>
 				
@@ -6316,8 +6316,8 @@
 							<z>2.013419</z>
 						</m_orientation>
 						<m_Name text="Foliage177"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.914729</m_scale>
 					</Element>
 					<Element>
@@ -6352,8 +6352,8 @@
 							<z>1.409649</z>
 						</m_orientation>
 						<m_Name text="Foliage178"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.956234</m_scale>
 					</Element>
 					<Element>
@@ -6388,8 +6388,8 @@
 							<z>2.894847</z>
 						</m_orientation>
 						<m_Name text="Foliage179"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.914108</m_scale>
 					</Element>
 					<Element>
@@ -6424,8 +6424,8 @@
 							<z>1.733665</z>
 						</m_orientation>
 						<m_Name text="Foliage180"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.981511</m_scale>
 					</Element>
 					<Element>
@@ -6460,8 +6460,8 @@
 							<z>0.548825</z>
 						</m_orientation>
 						<m_Name text="Foliage181"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.988778</m_scale>
 					</Element>
 					<Element>
@@ -6496,8 +6496,8 @@
 							<z>0.866831</z>
 						</m_orientation>
 						<m_Name text="Foliage182"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.998602</m_scale>
 					</Element>
 					<Element>
@@ -6532,8 +6532,8 @@
 							<z>1.331549</z>
 						</m_orientation>
 						<m_Name text="Foliage183"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.057613</m_scale>
 					</Element>
 					<Element>
@@ -6568,8 +6568,8 @@
 							<z>1.722127</z>
 						</m_orientation>
 						<m_Name text="Foliage184"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.034078</m_scale>
 					</Element>
 					<Element>
@@ -6604,8 +6604,8 @@
 							<z>2.631866</z>
 						</m_orientation>
 						<m_Name text="Foliage185"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.944496</m_scale>
 					</Element>
 					<Element>
@@ -6640,8 +6640,8 @@
 							<z>2.598777</z>
 						</m_orientation>
 						<m_Name text="Foliage186"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.929187</m_scale>
 					</Element>
 					<Element>
@@ -6676,8 +6676,8 @@
 							<z>0.990389</z>
 						</m_orientation>
 						<m_Name text="Foliage187"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.077885</m_scale>
 					</Element>
 					<Element>
@@ -6712,8 +6712,8 @@
 							<z>1.364086</z>
 						</m_orientation>
 						<m_Name text="Foliage188"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.952302</m_scale>
 					</Element>
 					<Element>
@@ -6748,8 +6748,8 @@
 							<z>0.452352</z>
 						</m_orientation>
 						<m_Name text="Foliage189"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.051559</m_scale>
 					</Element>
 					<Element>
@@ -6784,8 +6784,8 @@
 							<z>3.088549</z>
 						</m_orientation>
 						<m_Name text="Foliage190"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.947003</m_scale>
 					</Element>
 					<Element>
@@ -6820,8 +6820,8 @@
 							<z>2.383378</z>
 						</m_orientation>
 						<m_Name text="Foliage191"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.007050</m_scale>
 					</Element>
 					<Element>
@@ -6856,8 +6856,8 @@
 							<z>0.805621</z>
 						</m_orientation>
 						<m_Name text="Foliage192"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.036684</m_scale>
 					</Element>
 					<Element>
@@ -6892,8 +6892,8 @@
 							<z>0.697322</z>
 						</m_orientation>
 						<m_Name text="Foliage193"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.050333</m_scale>
 					</Element>
 					<Element>
@@ -6928,8 +6928,8 @@
 							<z>0.371783</z>
 						</m_orientation>
 						<m_Name text="Foliage194"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.088056</m_scale>
 					</Element>
 					<Element>
@@ -6964,8 +6964,8 @@
 							<z>2.007552</z>
 						</m_orientation>
 						<m_Name text="Foliage195"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.945354</m_scale>
 					</Element>
 					<Element>
@@ -7000,8 +7000,8 @@
 							<z>2.132964</z>
 						</m_orientation>
 						<m_Name text="Foliage196"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.081543</m_scale>
 					</Element>
 					<Element>
@@ -7036,8 +7036,8 @@
 							<z>1.381670</z>
 						</m_orientation>
 						<m_Name text="Foliage197"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.008482</m_scale>
 					</Element>
 					<Element>
@@ -7072,8 +7072,8 @@
 							<z>2.450151</z>
 						</m_orientation>
 						<m_Name text="Foliage198"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.919362</m_scale>
 					</Element>
 					<Element>
@@ -7108,8 +7108,8 @@
 							<z>1.351665</z>
 						</m_orientation>
 						<m_Name text="Foliage199"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.902626</m_scale>
 					</Element>
 					<Element>
@@ -7144,8 +7144,8 @@
 							<z>0.834299</z>
 						</m_orientation>
 						<m_Name text="Foliage200"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.937103</m_scale>
 					</Element>
 					<Element>
@@ -7180,8 +7180,8 @@
 							<z>2.139714</z>
 						</m_orientation>
 						<m_Name text="Foliage201"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.066019</m_scale>
 					</Element>
 					<Element>
@@ -7216,8 +7216,8 @@
 							<z>2.173655</z>
 						</m_orientation>
 						<m_Name text="Foliage202"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.947416</m_scale>
 					</Element>
 					<Element>
@@ -7252,8 +7252,8 @@
 							<z>2.086153</z>
 						</m_orientation>
 						<m_Name text="Foliage203"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.994254</m_scale>
 					</Element>
 					<Element>
@@ -7288,8 +7288,8 @@
 							<z>1.831085</z>
 						</m_orientation>
 						<m_Name text="Foliage204"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.909095</m_scale>
 					</Element>
 					<Element>
@@ -7324,8 +7324,8 @@
 							<z>0.203106</z>
 						</m_orientation>
 						<m_Name text="Foliage205"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.057656</m_scale>
 					</Element>
 					<Element>
@@ -7360,8 +7360,8 @@
 							<z>2.703275</z>
 						</m_orientation>
 						<m_Name text="Foliage206"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.967384</m_scale>
 					</Element>
 					<Element>
@@ -7396,8 +7396,8 @@
 							<z>1.581175</z>
 						</m_orientation>
 						<m_Name text="Foliage207"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.965020</m_scale>
 					</Element>
 					<Element>
@@ -7432,8 +7432,8 @@
 							<z>2.718809</z>
 						</m_orientation>
 						<m_Name text="Foliage208"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.928329</m_scale>
 					</Element>
 					<Element>
@@ -7468,8 +7468,8 @@
 							<z>1.474322</z>
 						</m_orientation>
 						<m_Name text="Foliage209"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.902809</m_scale>
 					</Element>
 					<Element>
@@ -7504,8 +7504,8 @@
 							<z>0.768086</z>
 						</m_orientation>
 						<m_Name text="Foliage210"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.089681</m_scale>
 					</Element>
 					<Element>
@@ -7540,8 +7540,8 @@
 							<z>0.237101</z>
 						</m_orientation>
 						<m_Name text="Foliage211"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.910070</m_scale>
 					</Element>
 					<Element>
@@ -7576,8 +7576,8 @@
 							<z>0.570404</z>
 						</m_orientation>
 						<m_Name text="Foliage212"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.081740</m_scale>
 					</Element>
 					<Element>
@@ -7612,8 +7612,8 @@
 							<z>1.596370</z>
 						</m_orientation>
 						<m_Name text="Foliage213"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.998580</m_scale>
 					</Element>
 					<Element>
@@ -7648,8 +7648,8 @@
 							<z>0.720393</z>
 						</m_orientation>
 						<m_Name text="Foliage214"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.901509</m_scale>
 					</Element>
 					<Element>
@@ -7684,8 +7684,8 @@
 							<z>0.946410</z>
 						</m_orientation>
 						<m_Name text="Foliage215"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.922644</m_scale>
 					</Element>
 					<Element>
@@ -7720,8 +7720,8 @@
 							<z>1.000246</z>
 						</m_orientation>
 						<m_Name text="Foliage216"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.023375</m_scale>
 					</Element>
 					<Element>
@@ -7756,8 +7756,8 @@
 							<z>1.475417</z>
 						</m_orientation>
 						<m_Name text="Foliage217"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.038712</m_scale>
 					</Element>
 					<Element>
@@ -7792,8 +7792,8 @@
 							<z>2.516813</z>
 						</m_orientation>
 						<m_Name text="Foliage218"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.077069</m_scale>
 					</Element>
 					<Element>
@@ -7828,8 +7828,8 @@
 							<z>2.191731</z>
 						</m_orientation>
 						<m_Name text="Foliage219"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.964810</m_scale>
 					</Element>
 					<Element>
@@ -7864,8 +7864,8 @@
 							<z>2.322999</z>
 						</m_orientation>
 						<m_Name text="Foliage220"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.993505</m_scale>
 					</Element>
 					<Element>
@@ -7900,8 +7900,8 @@
 							<z>1.377147</z>
 						</m_orientation>
 						<m_Name text="Foliage221"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.945139</m_scale>
 					</Element>
 					<Element>
@@ -7936,8 +7936,8 @@
 							<z>1.162676</z>
 						</m_orientation>
 						<m_Name text="Foliage222"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.097174</m_scale>
 					</Element>
 					<Element>
@@ -7972,8 +7972,8 @@
 							<z>2.637798</z>
 						</m_orientation>
 						<m_Name text="Foliage223"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.076210</m_scale>
 					</Element>
 					<Element>
@@ -8008,8 +8008,8 @@
 							<z>1.119507</z>
 						</m_orientation>
 						<m_Name text="Foliage224"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.965734</m_scale>
 					</Element>
 					<Element>
@@ -8044,8 +8044,8 @@
 							<z>0.506860</z>
 						</m_orientation>
 						<m_Name text="Foliage225"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.030619</m_scale>
 					</Element>
 					<Element>
@@ -8080,8 +8080,8 @@
 							<z>2.384909</z>
 						</m_orientation>
 						<m_Name text="Foliage226"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.053831</m_scale>
 					</Element>
 					<Element>
@@ -8116,8 +8116,8 @@
 							<z>1.436067</z>
 						</m_orientation>
 						<m_Name text="Foliage227"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.061268</m_scale>
 					</Element>
 					<Element>
@@ -8152,8 +8152,8 @@
 							<z>1.385666</z>
 						</m_orientation>
 						<m_Name text="Foliage228"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.927880</m_scale>
 					</Element>
 					<Element>
@@ -8188,8 +8188,8 @@
 							<z>1.042848</z>
 						</m_orientation>
 						<m_Name text="Foliage229"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.934491</m_scale>
 					</Element>
 					<Element>
@@ -8224,8 +8224,8 @@
 							<z>0.171083</z>
 						</m_orientation>
 						<m_Name text="Foliage230"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.078921</m_scale>
 					</Element>
 					<Element>
@@ -8260,8 +8260,8 @@
 							<z>2.904467</z>
 						</m_orientation>
 						<m_Name text="Foliage231"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.095793</m_scale>
 					</Element>
 					<Element>
@@ -8296,8 +8296,8 @@
 							<z>0.658516</z>
 						</m_orientation>
 						<m_Name text="Foliage232"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.998971</m_scale>
 					</Element>
 					<Element>
@@ -8332,8 +8332,8 @@
 							<z>1.017279</z>
 						</m_orientation>
 						<m_Name text="Foliage233"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.000140</m_scale>
 					</Element>
 					<Element>
@@ -8368,8 +8368,8 @@
 							<z>0.949774</z>
 						</m_orientation>
 						<m_Name text="Foliage234"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.970216</m_scale>
 					</Element>
 					<Element>
@@ -8404,8 +8404,8 @@
 							<z>2.455800</z>
 						</m_orientation>
 						<m_Name text="Foliage235"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.941588</m_scale>
 					</Element>
 					<Element>
@@ -8440,8 +8440,8 @@
 							<z>0.684614</z>
 						</m_orientation>
 						<m_Name text="Foliage236"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.953001</m_scale>
 					</Element>
 					<Element>
@@ -8476,8 +8476,8 @@
 							<z>1.468396</z>
 						</m_orientation>
 						<m_Name text="Foliage237"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.910435</m_scale>
 					</Element>
 					<Element>
@@ -8512,8 +8512,8 @@
 							<z>0.929720</z>
 						</m_orientation>
 						<m_Name text="Foliage238"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.088759</m_scale>
 					</Element>
 					<Element>
@@ -8548,8 +8548,8 @@
 							<z>0.005501</z>
 						</m_orientation>
 						<m_Name text="Foliage239"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.065681</m_scale>
 					</Element>
 					<Element>
@@ -8584,8 +8584,8 @@
 							<z>0.368930</z>
 						</m_orientation>
 						<m_Name text="Foliage240"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.045801</m_scale>
 					</Element>
 					<Element>
@@ -8620,8 +8620,8 @@
 							<z>0.454915</z>
 						</m_orientation>
 						<m_Name text="Foliage241"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.900102</m_scale>
 					</Element>
 					<Element>
@@ -8656,8 +8656,8 @@
 							<z>3.135566</z>
 						</m_orientation>
 						<m_Name text="Foliage242"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.024160</m_scale>
 					</Element>
 					<Element>
@@ -8692,8 +8692,8 @@
 							<z>0.984212</z>
 						</m_orientation>
 						<m_Name text="Foliage243"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.980122</m_scale>
 					</Element>
 					<Element>
@@ -8728,8 +8728,8 @@
 							<z>1.087453</z>
 						</m_orientation>
 						<m_Name text="Foliage244"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.986622</m_scale>
 					</Element>
 					<Element>
@@ -8764,8 +8764,8 @@
 							<z>0.798386</z>
 						</m_orientation>
 						<m_Name text="Foliage245"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.070440</m_scale>
 					</Element>
 					<Element>
@@ -8800,8 +8800,8 @@
 							<z>3.115199</z>
 						</m_orientation>
 						<m_Name text="Foliage246"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.931028</m_scale>
 					</Element>
 					<Element>
@@ -8836,8 +8836,8 @@
 							<z>2.628751</z>
 						</m_orientation>
 						<m_Name text="Foliage247"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.046322</m_scale>
 					</Element>
 					<Element>
@@ -8872,8 +8872,8 @@
 							<z>1.214278</z>
 						</m_orientation>
 						<m_Name text="Foliage248"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.956829</m_scale>
 					</Element>
 					<Element>
@@ -8908,8 +8908,8 @@
 							<z>2.340957</z>
 						</m_orientation>
 						<m_Name text="Foliage249"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.988265</m_scale>
 					</Element>
 					<Element>
@@ -8944,8 +8944,8 @@
 							<z>1.004101</z>
 						</m_orientation>
 						<m_Name text="Foliage250"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.019328</m_scale>
 					</Element>
 					<Element>
@@ -8980,8 +8980,8 @@
 							<z>2.866050</z>
 						</m_orientation>
 						<m_Name text="Foliage251"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.956974</m_scale>
 					</Element>
 					<Element>
@@ -9016,8 +9016,8 @@
 							<z>0.594208</z>
 						</m_orientation>
 						<m_Name text="Foliage252"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.902197</m_scale>
 					</Element>
 					<Element>
@@ -9052,8 +9052,8 @@
 							<z>0.862057</z>
 						</m_orientation>
 						<m_Name text="Foliage253"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.069099</m_scale>
 					</Element>
 					<Element>
@@ -9088,8 +9088,8 @@
 							<z>0.350797</z>
 						</m_orientation>
 						<m_Name text="Foliage254"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.099153</m_scale>
 					</Element>
 					<Element>
@@ -9124,8 +9124,8 @@
 							<z>1.847306</z>
 						</m_orientation>
 						<m_Name text="Foliage255"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.980054</m_scale>
 					</Element>
 					<Element>
@@ -9160,8 +9160,8 @@
 							<z>0.867785</z>
 						</m_orientation>
 						<m_Name text="Foliage256"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.014990</m_scale>
 					</Element>
 					<Element>
@@ -9196,8 +9196,8 @@
 							<z>0.646897</z>
 						</m_orientation>
 						<m_Name text="Foliage257"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.040497</m_scale>
 					</Element>
 					<Element>
@@ -9232,8 +9232,8 @@
 							<z>0.785137</z>
 						</m_orientation>
 						<m_Name text="Foliage258"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.008137</m_scale>
 					</Element>
 					<Element>
@@ -9268,8 +9268,8 @@
 							<z>1.312238</z>
 						</m_orientation>
 						<m_Name text="Foliage259"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.992570</m_scale>
 					</Element>
 					<Element>
@@ -9304,8 +9304,8 @@
 							<z>2.294216</z>
 						</m_orientation>
 						<m_Name text="Foliage260"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.932163</m_scale>
 					</Element>
 					<Element>
@@ -9340,8 +9340,8 @@
 							<z>3.112244</z>
 						</m_orientation>
 						<m_Name text="Foliage261"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.027568</m_scale>
 					</Element>
 					<Element>
@@ -9376,8 +9376,8 @@
 							<z>1.278695</z>
 						</m_orientation>
 						<m_Name text="Foliage262"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.905305</m_scale>
 					</Element>
 					<Element>
@@ -9412,8 +9412,8 @@
 							<z>1.034106</z>
 						</m_orientation>
 						<m_Name text="Foliage263"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.986480</m_scale>
 					</Element>
 					<Element>
@@ -9448,8 +9448,8 @@
 							<z>2.159366</z>
 						</m_orientation>
 						<m_Name text="Foliage264"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.907189</m_scale>
 					</Element>
 					<Element>
@@ -9484,8 +9484,8 @@
 							<z>0.447574</z>
 						</m_orientation>
 						<m_Name text="Foliage265"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.028686</m_scale>
 					</Element>
 					<Element>
@@ -9520,8 +9520,8 @@
 							<z>0.430896</z>
 						</m_orientation>
 						<m_Name text="Foliage266"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.020631</m_scale>
 					</Element>
 					<Element>
@@ -9556,8 +9556,8 @@
 							<z>0.915024</z>
 						</m_orientation>
 						<m_Name text="Foliage267"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.906684</m_scale>
 					</Element>
 					<Element>
@@ -9592,8 +9592,8 @@
 							<z>0.507318</z>
 						</m_orientation>
 						<m_Name text="Foliage268"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.962617</m_scale>
 					</Element>
 					<Element>
@@ -9628,8 +9628,8 @@
 							<z>2.199044</z>
 						</m_orientation>
 						<m_Name text="Foliage269"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.952910</m_scale>
 					</Element>
 					<Element>
@@ -9664,8 +9664,8 @@
 							<z>2.987735</z>
 						</m_orientation>
 						<m_Name text="Foliage270"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.029741</m_scale>
 					</Element>
 					<Element>
@@ -9700,8 +9700,8 @@
 							<z>0.263912</z>
 						</m_orientation>
 						<m_Name text="Foliage271"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.978153</m_scale>
 					</Element>
 					<Element>
@@ -9736,8 +9736,8 @@
 							<z>2.948039</z>
 						</m_orientation>
 						<m_Name text="Foliage272"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.004547</m_scale>
 					</Element>
 					<Element>
@@ -9772,8 +9772,8 @@
 							<z>0.872885</z>
 						</m_orientation>
 						<m_Name text="Foliage273"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.052357</m_scale>
 					</Element>
 					<Element>
@@ -9808,8 +9808,8 @@
 							<z>2.344009</z>
 						</m_orientation>
 						<m_Name text="Foliage274"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.022644</m_scale>
 					</Element>
 					<Element>
@@ -9844,8 +9844,8 @@
 							<z>2.608451</z>
 						</m_orientation>
 						<m_Name text="Foliage275"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.989587</m_scale>
 					</Element>
 					<Element>
@@ -9880,8 +9880,8 @@
 							<z>0.386697</z>
 						</m_orientation>
 						<m_Name text="Foliage276"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.915898</m_scale>
 					</Element>
 					
@@ -9917,8 +9917,8 @@
 							<z>1.647379</z>
 						</m_orientation>
 						<m_Name text="Foliage278"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.050953</m_scale>
 					</Element>
 					<Element>
@@ -9953,8 +9953,8 @@
 							<z>1.639824</z>
 						</m_orientation>
 						<m_Name text="Foliage279"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.991890</m_scale>
 					</Element>
 					<Element>
@@ -9989,8 +9989,8 @@
 							<z>1.627541</z>
 						</m_orientation>
 						<m_Name text="Foliage280"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.091569</m_scale>
 					</Element>
 					<Element>
@@ -10025,8 +10025,8 @@
 							<z>0.144333</z>
 						</m_orientation>
 						<m_Name text="Foliage281"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.901993</m_scale>
 					</Element>
 					<Element>
@@ -10061,8 +10061,8 @@
 							<z>1.147947</z>
 						</m_orientation>
 						<m_Name text="Foliage282"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.981446</m_scale>
 					</Element>
 					<Element>
@@ -10097,8 +10097,8 @@
 							<z>1.127821</z>
 						</m_orientation>
 						<m_Name text="Foliage283"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.998979</m_scale>
 					</Element>
 					<Element>
@@ -10133,8 +10133,8 @@
 							<z>0.372463</z>
 						</m_orientation>
 						<m_Name text="Foliage284"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.039590</m_scale>
 					</Element>
 					<Element>
@@ -10169,8 +10169,8 @@
 							<z>2.440434</z>
 						</m_orientation>
 						<m_Name text="Foliage285"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.948371</m_scale>
 					</Element>
 					<Element>
@@ -10205,8 +10205,8 @@
 							<z>1.424293</z>
 						</m_orientation>
 						<m_Name text="Foliage286"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.046689</m_scale>
 					</Element>
 					<Element>
@@ -10241,8 +10241,8 @@
 							<z>0.853267</z>
 						</m_orientation>
 						<m_Name text="Foliage287"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.091658</m_scale>
 					</Element>
 					<Element>
@@ -10277,8 +10277,8 @@
 							<z>2.082463</z>
 						</m_orientation>
 						<m_Name text="Foliage288"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.990708</m_scale>
 					</Element>
 					<Element>
@@ -10313,8 +10313,8 @@
 							<z>1.777285</z>
 						</m_orientation>
 						<m_Name text="Foliage289"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.974526</m_scale>
 					</Element>
 					<Element>
@@ -10349,8 +10349,8 @@
 							<z>2.807670</z>
 						</m_orientation>
 						<m_Name text="Foliage290"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.073344</m_scale>
 					</Element>
 					<Element>
@@ -10385,8 +10385,8 @@
 							<z>1.938451</z>
 						</m_orientation>
 						<m_Name text="Foliage291"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.015560</m_scale>
 					</Element>
 					<Element>
@@ -10421,8 +10421,8 @@
 							<z>3.096634</z>
 						</m_orientation>
 						<m_Name text="Foliage292"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.056958</m_scale>
 					</Element>
 					<Element>
@@ -10457,8 +10457,8 @@
 							<z>1.124398</z>
 						</m_orientation>
 						<m_Name text="Foliage293"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.965723</m_scale>
 					</Element>
 					<Element>
@@ -10493,8 +10493,8 @@
 							<z>0.588743</z>
 						</m_orientation>
 						<m_Name text="Foliage294"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.971197</m_scale>
 					</Element>
 					<Element>
@@ -10529,8 +10529,8 @@
 							<z>2.366669</z>
 						</m_orientation>
 						<m_Name text="Foliage295"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.981198</m_scale>
 					</Element>
 					<Element>
@@ -10565,8 +10565,8 @@
 							<z>0.785955</z>
 						</m_orientation>
 						<m_Name text="Foliage296"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.916016</m_scale>
 					</Element>
 					<Element>
@@ -10601,8 +10601,8 @@
 							<z>1.741170</z>
 						</m_orientation>
 						<m_Name text="Foliage297"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.019613</m_scale>
 					</Element>
 					<Element>
@@ -10637,8 +10637,8 @@
 							<z>1.900797</z>
 						</m_orientation>
 						<m_Name text="Foliage298"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.942756</m_scale>
 					</Element>
 					<Element>
@@ -10673,8 +10673,8 @@
 							<z>2.253915</z>
 						</m_orientation>
 						<m_Name text="Foliage299"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>0.942628</m_scale>
 					</Element>
 					<Element>
@@ -10709,8 +10709,8 @@
 							<z>2.503975</z>
 						</m_orientation>
 						<m_Name text="Foliage300"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.044962</m_scale>
 					</Element>
 					<Element>
@@ -10745,8 +10745,8 @@
 							<z>2.634867</z>
 						</m_orientation>
 						<m_Name text="Foliage301"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.021149</m_scale>
 					</Element>
 					<Element>
@@ -10781,8 +10781,8 @@
 							<z>0.867584</z>
 						</m_orientation>
 						<m_Name text="Foliage302"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.083641</m_scale>
 					</Element>
 					<Element>
@@ -10817,8 +10817,8 @@
 							<z>2.376421</z>
 						</m_orientation>
 						<m_Name text="Foliage303"/>
-						<m_BoneName text="WON_Itsukushima"/>
-						<m_ModelInstanceName text="WON_Itsukushima"/>
+						<m_BoneName text="NWON_Origin_Dummy"/>
+						<m_ModelInstanceName text="NWON_Origin_Dummy"/>
 						<m_scale>1.021685</m_scale>
 					</Element>
 				</m_Points>
@@ -10832,199 +10832,37 @@
 	<m_GeometrySet>
 		<m_ModelInstances>
 			<Element>
-				<m_Name text="TerrainElement_SingleHex_Decal"/>
-				<m_GeoName text="TerrainElement_SingleHex_Decal"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstein_Castle_grnd_DIFF"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
-						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
-						<m_StateName text="Worked"/>
-					</Element>
-				</m_GroupStates>
-			</Element>
-			<Element>
-				<m_Name text="TerrainElement_SingleHex_Decal"/>
-				<m_GeoName text="TerrainElement_SingleHex_Decal"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstein_Castle_grnd_DIFF"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
-						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
-						<m_StateName text="Unworked"/>
-					</Element>
-				</m_GroupStates>
-			</Element>
-			<Element>
-				<m_Name text="TerrainElement_SingleHex_Decal"/>
-				<m_GeoName text="TerrainElement_SingleHex_Decal"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstein_Castle_grnd_DIFF"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
-						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
-						<m_StateName text="Pillaged"/>
-					</Element>
-				</m_GroupStates>
-			</Element>
-			<Element>
-				<m_Name text="TerrainElement_SingleHex_Decal"/>
-				<m_GeoName text="TerrainElement_SingleHex_Decal"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstein_Castle_grnd_DIFF"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
-						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
-						<m_StateName text="Unbuilt"/>
-					</Element>
-				</m_GroupStates>
-			</Element>
-			<Element>
-				<m_Name text="TerrainElement_SingleHex_Decal"/>
-				<m_GeoName text="TerrainElement_SingleHex_Decal"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstein_Castle_grnd_DIFF"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
-						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
-						<m_StateName text="Construction"/>
-					</Element>
-				</m_GroupStates>
-			</Element>
-			<Element>
 				<m_Name text="WON_Hagia_Sophia_Movie_Camera"/>
-				<m_GeoName text="WON_Itsukushima_Movie_Camera"/>
+				<m_GeoName text="WON_Hagia_Sophia_Movie_Camera"/>
 				<m_GroupStates/>
 			</Element>
 			<Element>
-				<m_Name text="WON_MachuPicchu_HMedit"/>
-				<m_GeoName text="WON_MachuPicchu_HMedit"/>
+				<m_Name text="NWON_Origin_Dummy"/>
+				<m_GeoName text="WON_Origin_Dummy"/>
 				<m_GroupStates>
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstein_HMedit"/>
+								<Element class="AssetObjects:ObjectValue">
+									<m_ObjectName text="dummymaterial"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
 								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
+									<m_bValue>false</m_bValue>
 									<m_ParamName text="Visible"/>
 								</Element>
 							</m_Values>
 						</m_Values>
-						<m_GroupName text="WON_MachuPicchu_HMedit"/>
-						<m_MeshName text="HMedit001"/>
-						<m_StateName text="Worked"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstein_HMedit"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="WON_MachuPicchu_HMedit"/>
-						<m_MeshName text="HMedit001"/>
+						<m_GroupName text="dummymaterial"/>
+						<m_MeshName text="NWON_Origin_Dummy"/>
 						<m_StateName text="Unworked"/>
 					</Element>
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Neuschwanstein_HMedit"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="WON_MachuPicchu_HMedit"/>
-						<m_MeshName text="HMedit001"/>
-						<m_StateName text="Ruined"/>
-					</Element>
-				</m_GroupStates>
-			</Element>
-			<Element>
-				<m_Name text="WON_Itsukushima"/>
-				<m_GeoName text="WON_Tutorial"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="globeTheatre"/>
+								<Element class="AssetObjects:ObjectValue">
+									<m_ObjectName text="dummymaterial"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
@@ -11032,32 +10870,17 @@
 									<m_bValue>false</m_bValue>
 									<m_ParamName text="Visible"/>
 								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="FOW/DefaultMaterial"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="FOWMaterial"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text=""/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="BurnMaterial"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="DefaultSnowMaterial"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="SnowMaterial"/>
-								</Element>
 							</m_Values>
 						</m_Values>
-						<m_GroupName text="Itsukushima_Built"/>
-						<m_MeshName text="Itsukushima_Built"/>
+						<m_GroupName text="dummymaterial"/>
+						<m_MeshName text="NWON_Origin_Dummy"/>
 						<m_StateName text="Worked"/>
 					</Element>
 					<Element>
 						<m_Values>
 							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="globeTheatre"/>
+								<Element class="AssetObjects:ObjectValue">
+									<m_ObjectName text="dummymaterial"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
@@ -11065,125 +10888,11 @@
 									<m_bValue>false</m_bValue>
 									<m_ParamName text="Visible"/>
 								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="FOW/DefaultMaterial"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="FOWMaterial"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text=""/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="BurnMaterial"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="DefaultSnowMaterial"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="SnowMaterial"/>
-								</Element>
 							</m_Values>
 						</m_Values>
-						<m_GroupName text="Itsukushima_Built"/>
-						<m_MeshName text="Itsukushima_Built"/>
-						<m_StateName text="Unworked"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="globeTheatre"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>false</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="FOW/DefaultMaterial"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="FOWMaterial"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text=""/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="BurnMaterial"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="DefaultSnowMaterial"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="SnowMaterial"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="Itsukushima_Built"/>
-						<m_MeshName text="Itsukushima_Built"/>
+						<m_GroupName text="dummymaterial"/>
+						<m_MeshName text="NWON_Origin_Dummy"/>
 						<m_StateName text="Ruined"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="globeTheatre"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>false</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="FOW/DefaultMaterial"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="FOWMaterial"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text=""/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="BurnMaterial"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="DefaultSnowMaterial"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="SnowMaterial"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="Itsukushima_Built"/>
-						<m_MeshName text="Itsukushima_Built"/>
-						<m_StateName text="Unbuilt"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="globeTheatre"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>false</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="FOW/DefaultMaterial"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="FOWMaterial"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text=""/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="BurnMaterial"/>
-								</Element>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="DefaultSnowMaterial"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="SnowMaterial"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="Itsukushima_Built"/>
-						<m_MeshName text="Itsukushima_Built"/>
-						<m_StateName text="Construction"/>
 					</Element>
 				</m_GroupStates>
 			</Element>
@@ -11191,64 +10900,64 @@
 	</m_GeometrySet>
 	<m_CookParams>
 		<m_Values>
-			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="Safe Frame2"/>
+			<Element class="AssetObjects:ObjectValue">
+				<m_ObjectName text=""/>
 				<m_eObjectType>GEOMETRY</m_eObjectType>
 				<m_ParamName text="Obstruction Profile"/>
 			</Element>
-			<Element class="AssetObjects..ObjectValue">
+			<Element class="AssetObjects:ObjectValue">
 				<m_ObjectName text=""/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="AO"/>
 			</Element>
-			<Element class="AssetObjects..FloatValue">
-				<m_fValue>0.2</m_fValue>
+			<Element class="AssetObjects:FloatValue">
+				<m_fValue>0.090000</m_fValue>
 				<m_ParamName text="BurnHeight"/>
 			</Element>
-			<Element class="AssetObjects..FloatValue">
+			<Element class="AssetObjects:FloatValue">
 				<m_fValue>1.000000</m_fValue>
 				<m_ParamName text="GradientScale"/>
 			</Element>
-			<Element class="AssetObjects..FloatValue">
-				<m_fValue>0.2</m_fValue>
+			<Element class="AssetObjects:FloatValue">
+				<m_fValue>0.200000</m_fValue>
 				<m_ParamName text="BurnEdgeBlend"/>
 			</Element>
-			<Element class="AssetObjects..BoolValue">
-				<m_bValue>false</m_bValue>
+			<Element class="AssetObjects:BoolValue">
+				<m_bValue>true</m_bValue>
 				<m_ParamName text="Obstruction Profile AutoGenerate"/>
 			</Element>
-			<Element class="AssetObjects..BoolValue">
+			<Element class="AssetObjects:BoolValue">
 				<m_bValue>true</m_bValue>
 				<m_ParamName text="CastShadows"/>
 			</Element>
-			<Element class="AssetObjects..BoolValue">
+			<Element class="AssetObjects:BoolValue">
 				<m_bValue>true</m_bValue>
 				<m_ParamName text="CastAO"/>
 			</Element>
-			<Element class="AssetObjects..RGBValue">
+			<Element class="AssetObjects:RGBValue">
 				<m_r>255.000000</m_r>
 				<m_g>255.000000</m_g>
 				<m_b>255.000000</m_b>
 				<m_ParamName text="SnowColor"/>
 			</Element>
-			<Element class="AssetObjects..FloatValue">
+			<Element class="AssetObjects:FloatValue">
 				<m_fValue>1.000000</m_fValue>
 				<m_ParamName text="SnowGloss"/>
 			</Element>
-			<Element class="AssetObjects..FloatValue">
+			<Element class="AssetObjects:FloatValue">
 				<m_fValue>0.000000</m_fValue>
 				<m_ParamName text="SnowMetalness"/>
 			</Element>
-			<Element class="AssetObjects..Coord2DValue">
+			<Element class="AssetObjects:Coord2DValue">
 				<m_x>0.200000</m_x>
 				<m_y>0.800000</m_y>
 				<m_ParamName text="SnowNoiseThreshold"/>
 			</Element>
-			<Element class="AssetObjects..BoolValue">
+			<Element class="AssetObjects:BoolValue">
 				<m_bValue>true</m_bValue>
 				<m_ParamName text="SnowOn"/>
 			</Element>
-			<Element class="AssetObjects..FloatValue">
+			<Element class="AssetObjects:FloatValue">
 				<m_fValue>0.050000</m_fValue>
 				<m_ParamName text="SnowUVScale"/>
 			</Element>
