@@ -1,8 +1,8 @@
 
 INSERT INTO Types (Type, Kind) VALUES ('BUILDING_NEUSCHWANSTEIN', 'KIND_BUILDING');
 
-INSERT INTO Buildings (BuildingType, Name, Description, PrereqTech, Cost, AdvisorType, MaxWorldInstances, IsWonder, RequiresPlacement, Quote)
-VALUES ('BUILDING_NEUSCHWANSTEIN', 'LOC_BUILDING_NEUSCHWANSTEIN_NAME', 'LOC_BUILDING_NEUSCHWANSTEIN_DESCRIPTION', 'TECH_BANKING', 999, 'ADVISOR_CULTURE', '1', 1, 1, 'LOC_BUILDING_NEUSCHWANSTEIN_QUOTE');
+INSERT INTO Buildings (BuildingType, Name, Description, PrereqCivic, Cost, AdvisorType, MaxWorldInstances, IsWonder, RequiresPlacement, Quote)
+VALUES ('BUILDING_NEUSCHWANSTEIN', 'LOC_BUILDING_NEUSCHWANSTEIN_NAME', 'LOC_BUILDING_NEUSCHWANSTEIN_DESCRIPTION', 'CIVIC_OPERA_BALLET', 1350, 'ADVISOR_CULTURE', '1', 1, 1, 'LOC_BUILDING_NEUSCHWANSTEIN_QUOTE');
 
 INSERT INTO Building_GreatPersonPoints (BuildingType, GreatPersonClassType, PointsPerTurn)
 VALUES ('BUILDING_NEUSCHWANSTEIN', 'GREAT_PERSON_CLASS_MUSICIAN', '3');
@@ -15,6 +15,14 @@ INSERT INTO Building_ValidTerrains (BuildingType, TerrainType) VALUES ('BUILDING
 INSERT INTO Building_ValidTerrains (BuildingType, TerrainType) VALUES ('BUILDING_NEUSCHWANSTEIN', 'TERRAIN_TUNDRA_HILLS');
 INSERT INTO Building_ValidTerrains (BuildingType, TerrainType) VALUES ('BUILDING_NEUSCHWANSTEIN', 'TERRAIN_SNOW_HILLS');
 INSERT INTO Building_ValidTerrains (BuildingType, TerrainType) VALUES ('BUILDING_NEUSCHWANSTEIN', 'TERRAIN_DESERT_HILLS');
+
+--Building_YieldChanges
+INSERT INTO Building_YieldChanges (
+  BuildingType, YieldType, YieldChange
+)
+VALUES
+  ('BUILDING_NEUSCHWANSTEIN', 'YIELD_CULTURE',2),
+  ('BUILDING_NEUSCHWANSTEIN', 'YIELD_GOLD',2);
 
 
 --Any City with Medieval or Renaissance Walls yields + 2 Culture, + 2 Gold, +1 Amenities
