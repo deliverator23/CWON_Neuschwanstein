@@ -3,12 +3,12 @@
 	<m_CookParams>
 		<m_Values>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="neuschwanstein_castle_grnd_diff"/>
+				<m_ObjectName text="Neuschwanstein_Decal_B"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="BaseColor"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="neuschwanstein_castle_hb_grnd_h_2"/>
+				<m_ObjectName text="Neuschwanstein_Decal_H"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Heightmap"/>
 			</Element>

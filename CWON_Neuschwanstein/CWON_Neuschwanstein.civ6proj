@@ -18,12 +18,87 @@
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
     <AssemblyName>CWON_Neuschwanstein</AssemblyName>
     <RootNamespace>CWON_Neuschwanstein</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Neu_DB"><File>Gameplay/Neuschwanstein_Gameplay.sql</File></UpdateDatabase><UpdateIcons id="Neu_Icon"><File>Icons/Neuschwanstein_Icons.xml</File></UpdateIcons><UpdateArt id="Neu_Art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="Neu_Text"><File>Text/Neuschwanstein_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <None Include="CWON_Neuschwanstein.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ArtDefs\Buildings.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\StrategicView.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\WonderMovie.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Neuschwanstein_Castle_Wonder.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Neuschwanstein_Castle__Castle.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Gameplay\Neuschwanstein_Gameplay.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\neuschwanstein_castle__castle.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\neuschwanstein_castle__castle.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\neuschwanstein_castle__Neuschwanstein_Castle_HB.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\neuschwanstein_castle__Neuschwanstein_Castle_HB.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\WON_MachuPicchu_HMedit.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\WON_MachuPicchu_HMedit.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\WON_Origin_Dummy.fgx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Geometries\WON_Origin_Dummy.geo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Icons\Neuschwanstein_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\dummymaterial.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Neuschwanstein_Castle_grnd_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Neuschwanstein_Castle_HB_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Neuschwanstein_HMedit.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\Neuschwanstien_Castle_DIFF.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Neuschwanstein_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtDefs\" />
+    <Folder Include="Assets\" />
+    <Folder Include="Gameplay\" />
+    <Folder Include="Geometries\" />
+    <Folder Include="Icons\" />
+    <Folder Include="Materials\" />
+    <Folder Include="Text\" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
 </Project>

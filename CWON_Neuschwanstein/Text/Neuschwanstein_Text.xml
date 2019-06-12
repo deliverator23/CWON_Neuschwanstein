@@ -5,7 +5,7 @@
 			<Text>Neuschwanstein Castle</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_NEUSCHWANSTEIN_DESCRIPTION">
-			<Text></Text>
+			<Text>Any City with Medieval or Renaissance Walls yields + 2 [ICON_Culture] Culture, + 2 [ICON_Gold] Gold, +1 [ICON_Amenities] Amenities.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_NEUSCHWANSTEIN_QUOTE">
 			<Text>"...the location is one of the most beautiful to be found, holy and unapproachable, a worthy temple for the divine friend who has brought salvation and true blessing to the world." – King Ludwig II of Bavaria</Text>

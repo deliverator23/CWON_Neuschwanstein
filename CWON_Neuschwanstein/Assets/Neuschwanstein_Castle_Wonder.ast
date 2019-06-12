@@ -6,7 +6,7 @@
 				<m_Bindings>
 					<Element>
 						<m_SlotName text="REVEAL_A"/>
-						<m_AnimationName text="WON_Hagia_Sophia_Movie"/>
+						<m_AnimationName text="WON_Mont_St_Michel"/>
 					</Element>
 				</m_Bindings>
 			</m_animationBindings>
@@ -35,7 +35,7 @@
 					<Element>
 						<m_Name text="REVEAL_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="WON_Hagia_Sophia_Movie"/>
+						<m_AnimationName text="WON_Mont_St_Michel"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 						<m_Tracks>
@@ -10956,8 +10956,140 @@
 	<m_GeometrySet>
 		<m_ModelInstances>
 			<Element>
-				<m_Name text="WON_Hagia_Sophia_Movie_Camera"/>
-				<m_GeoName text="WON_Hagia_Sophia_Movie_Camera"/>
+				<m_Name text="TerrainElement_SingleHex_Decal"/>
+				<m_GeoName text="TerrainElement_SingleHex_Decal"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Neuschwanstein_Castle_grnd_DIFF"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>true</m_bValue>
+									<m_ParamName text="Visible"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
+						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
+						<m_StateName text="Worked"/>
+					</Element>
+				</m_GroupStates>
+			</Element>
+			<Element>
+				<m_Name text="TerrainElement_SingleHex_Decal"/>
+				<m_GeoName text="TerrainElement_SingleHex_Decal"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Neuschwanstein_Castle_grnd_DIFF"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>true</m_bValue>
+									<m_ParamName text="Visible"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
+						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
+						<m_StateName text="Unworked"/>
+					</Element>
+				</m_GroupStates>
+			</Element>
+			<Element>
+				<m_Name text="TerrainElement_SingleHex_Decal"/>
+				<m_GeoName text="TerrainElement_SingleHex_Decal"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Neuschwanstein_Castle_grnd_DIFF"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>true</m_bValue>
+									<m_ParamName text="Visible"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
+						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
+						<m_StateName text="Ruined"/>
+					</Element>
+				</m_GroupStates>
+			</Element>
+			<Element>
+				<m_Name text="WON_MachuPicchu_HMedit"/>
+				<m_GeoName text="WON_MachuPicchu_HMedit"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Neuschwanstein_HMedit"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>true</m_bValue>
+									<m_ParamName text="Visible"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="WON_MachuPicchu_HMedit"/>
+						<m_MeshName text="HMedit001"/>
+						<m_StateName text="Worked"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Neuschwanstein_HMedit"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>true</m_bValue>
+									<m_ParamName text="Visible"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="WON_MachuPicchu_HMedit"/>
+						<m_MeshName text="HMedit001"/>
+						<m_StateName text="Unworked"/>
+					</Element>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="Neuschwanstein_HMedit"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+								<Element class="AssetObjects..BoolValue">
+									<m_bValue>true</m_bValue>
+									<m_ParamName text="Visible"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="WON_MachuPicchu_HMedit"/>
+						<m_MeshName text="HMedit001"/>
+						<m_StateName text="Ruined"/>
+					</Element>
+				</m_GroupStates>
+			</Element>
+			<Element>
+				<m_Name text="Mont_St_Michel_Camera"/>
+				<m_GeoName text="Mont_St_Michel_Camera"/>
 				<m_GroupStates/>
 			</Element>
 			<Element>
