@@ -81,7 +81,7 @@
                         <m_Values>
                             <m_Values>
                                 <Element class="AssetObjects:ObjectValue">
-                                    <m_ObjectName text="Neuschwanstein_Castle_HB_DIFF"/>
+                                    <m_ObjectName text="Neuschwanstein_Castle_PIL"/>
                                     <m_eObjectType>MATERIAL</m_eObjectType>
                                     <m_ParamName text="Material"/>
                                 </Element>
