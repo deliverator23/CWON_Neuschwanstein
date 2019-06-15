@@ -36,136 +36,10 @@
     <Content Include="ArtDefs\WonderMovie.artdef">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Assets\Neuschwanstein_Castle_Wonder.ast">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Assets\Neuschwanstein_Castle__Castle.ast">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Gameplay\Neuschwanstein_Gameplay.sql">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Geometries\neuschwanstein_castle__castle.fgx">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Geometries\neuschwanstein_castle__castle.geo">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Geometries\neuschwanstein_castle__Neuschwanstein_Castle_HB.fgx">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Geometries\neuschwanstein_castle__Neuschwanstein_Castle_HB.geo">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Geometries\WON_MachuPicchu_HMedit.fgx">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Geometries\WON_MachuPicchu_HMedit.geo">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Geometries\WON_Origin_Dummy.fgx">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Geometries\WON_Origin_Dummy.geo">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Icons\Neuschwanstein_Icons.xml">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Materials\dummymaterial.mtl">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Materials\Neuschwanstein_Castle_grnd_DIFF.mtl">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Materials\Neuschwanstein_Castle_HB_DIFF.mtl">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Materials\Neuschwanstein_Castle_PIL.mtl">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Materials\Neuschwanstein_HMedit.mtl">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Materials\Neuschwanstien_Castle_DIFF.mtl">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Black_Gloss.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Black_Gloss.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Black_Metalness.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Black_Metalness.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Black_TintMask.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Black_TintMask.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Flat_Normal.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Flat_Normal.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\neuschwanstein_castle_grnd_diff.DDS">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\neuschwanstein_castle_grnd_diff.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\neuschwanstein_castle_hb_diff.DDS">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\neuschwanstein_castle_hb_diff.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\neuschwanstein_castle_hb_grnd_h_2.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\neuschwanstein_castle_hb_grnd_h_2.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Neuschwanstein_Decal_B.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Neuschwanstein_Decal_B.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Neuschwanstein_Decal_H.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Neuschwanstein_Decal_H.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Neuschwanstein_HMedit_V3.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\Neuschwanstein_HMedit_V3.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\neuschwanstein_mountain_diff_2.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\neuschwanstein_mountain_diff_2.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\neuschwanstien_castle_diff.DDS">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\neuschwanstien_castle_diff.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\White_AO.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\White_AO.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Text\Neuschwanstein_Text.xml">
@@ -174,12 +48,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ArtDefs\" />
-    <Folder Include="Assets\" />
     <Folder Include="Gameplay\" />
-    <Folder Include="Geometries\" />
     <Folder Include="Icons\" />
-    <Folder Include="Materials\" />
-    <Folder Include="Textures\" />
     <Folder Include="Text\" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />

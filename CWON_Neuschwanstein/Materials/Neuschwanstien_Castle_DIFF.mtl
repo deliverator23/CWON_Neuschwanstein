@@ -40,6 +40,16 @@
 				<m_bValue>false</m_bValue>
 				<m_ParamName text="Translucency"/>
 			</Element>
+			<Element class="AssetObjects..ObjectValue">
+				<m_ObjectName text="neuschwanstein_L"/>
+				<m_eObjectType>TEXTURE</m_eObjectType>
+				<m_ParamName text="LightMap"/>
+			</Element>
+			<Element class="AssetObjects..ObjectValue">
+				<m_ObjectName text="neuschwanstein_E"/>
+				<m_eObjectType>TEXTURE</m_eObjectType>
+				<m_ParamName text="Emissive"/>
+			</Element>
 		</m_Values>
 	</m_CookParams>
 	<m_Version>
