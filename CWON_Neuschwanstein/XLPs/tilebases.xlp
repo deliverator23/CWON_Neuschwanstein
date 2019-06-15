@@ -13,6 +13,10 @@
 			<m_EntryID text="Neuschwanstein_Castle__Castle"/>
 			<m_ObjectName text="Neuschwanstein_Castle__Castle"/>
 		</Element>
+		<Element>
+			<m_EntryID text="Neuschwanstein_Castle__HB"/>
+			<m_ObjectName text="Neuschwanstein_Castle__HB"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
