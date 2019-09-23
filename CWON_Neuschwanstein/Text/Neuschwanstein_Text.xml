@@ -20,4 +20,21 @@
 			<Text></Text>
 		</Row>
 	</EnglishText>
+	<LocalizedText>
+		<Replace Tag="LOC_BUILDING_NEUSCHWANSTEIN_NAME" Language="de_DE">
+			<Text>Neuschwanstein</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NEUSCHWANSTEIN_DESCRIPTION" Language="de_DE">
+			<Text>+2 [ICON_Culture] Kultur, + 2 [ICON_Gold] Gold und +1 [ICON_Amenities] Annehmlichkeit in jeder Stadt mit mittelalterlichen Mauern oder Renaissance-Mauern. Muss auf einem Hügel angrenzend an ein Bergfeld errichtet werden.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NEUSCHWANSTEIN_QUOTE" Language="de_DE">
+			<Text>"Ich habe die Absicht, die alte Burgruine Hohenschwangau bei der Pöllatschlucht neu aufbauen zu lassen, im echten Styl der alten deutschen Ritterburgen." – König Ludwig II. von Bayern</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_NEUSCHWANSTEIN_CHAPTER_HISTORY_PARA_1" Language="de_DE">
+			<Text>Das Schloss Neuschwanstein steht oberhalb von Hohenschwangau bei Füssen im südöstlichen bayerischen Allgäu. Der Bau wurde ab 1869 für den bayerischen König Ludwig II. als idealisierte Vorstellung einer Ritterburg aus der Zeit des Mittelalters errichtet. Der König lebte allerdings nur wenige Monate im Schloss und starb noch vor der Fertigstellung der Anlage. Neuschwanstein wurde ursprünglich als Neue Burg Hohenschwangau bezeichnet, seinen heutigen Namen trägt es seit 1886.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_NEUSCHWANSTEIN_CHAPTER_HISTORY_PARA_2" Language="de_DE">
+			<Text>Neuschwanstein ist das berühmteste der Schlösser Ludwigs II. und eine der bekanntesten Sehenswürdigkeiten Deutschlands. Es wird jährlich von etwa 1,5 Millionen Touristen besucht. Das oftmals als „Märchenschloss“ bezeichnete Neuschwanstein ist nahezu ganzjährig für Besucher geöffnet. Die Architektur und Innenausstattung sind vom romantischen Eklektizismus des 19. Jahrhunderts geprägt; das Schloss gilt als ein Hauptwerk des Historismus.</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>
